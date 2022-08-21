@@ -9,3 +9,4 @@ Esta herramienta está disponible para su uso de prácticas de pentesting, donde
 - Contar con [cable de red Ethernet ](http://https://www.xataka.com/basics/cable-red-ethernet-categorias-protecciones-como-saber-cual-comprar "cable de red Ethernet ")al router *(para no perder conexión a Internet)* y tener una [antena de red WiFi](http://https://computerhoy.com/noticias/hardware/que-es-antena-wifi-usb-que-sirve-cual-comprar-78211 "antena de red WiFi") si se trabaja en entorno de maquina virtual.
 - :tw-26a0: **Herramienta creada con fines educativos y éticos, no me hago responsable del mal uso que se le de.**
 # ¿Cómo Usarlo?
+`./poseidon.sh`
