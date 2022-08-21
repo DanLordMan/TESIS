@@ -18,3 +18,9 @@ Para el uso del software habilite una terminal en el directorio de la herramient
 A continuación un video sobre el manejo de la herramienta y sus respectivos ataques a las redes inalámbricas en el siguiente link:
 
 `https://drive.google.com/file/d/1utugedP7f7CXJhcxPMZFzNzXNGoWw0Hr/view?usp=sharing` :point_left:
+
+## Autor  :bust_in_silhouette:
+*Carlos Daniel Alvarez Poma*
+
+## Crédito de imagen 
+- NetS-Hub
