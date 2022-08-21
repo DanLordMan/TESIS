@@ -12,7 +12,7 @@ Esta herramienta está disponible para su uso de prácticas de pentesting, donde
 ## ¿Cómo Usarlo?
 Para el uso del software habilite una terminal en el directorio de la herramienta y digite lo siguiente:
 
-`./poseidon.sh`
+:eye: `./poseidon.sh`
 
 ## Manejo de la herramienta
 A continuación un video sobre el manejo de la herramienta y sus respectivos ataques a las redes inalámbricas en el siguiente link:
