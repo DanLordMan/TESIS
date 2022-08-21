@@ -17,4 +17,4 @@ Para el uso del software habilite una terminal en el directorio de la herramient
 ## Manejo de la herramienta
 A continuación un video sobre el manejo de la herramienta y sus respectivos ataques a las redes inalámbricas en el siguiente link:
 
-:ok_hand:`https://drive.google.com/file/d/1utugedP7f7CXJhcxPMZFzNzXNGoWw0Hr/view?usp=sharing`
+`https://drive.google.com/file/d/1utugedP7f7CXJhcxPMZFzNzXNGoWw0Hr/view?usp=sharing` :point_left:
