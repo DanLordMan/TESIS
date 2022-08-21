@@ -20,7 +20,7 @@ A continuación un video sobre el manejo de la herramienta y sus respectivos ata
 `https://drive.google.com/file/d/1utugedP7f7CXJhcxPMZFzNzXNGoWw0Hr/view?usp=sharing` :point_left:
 
 ## Autor  :bust_in_silhouette:
-*Carlos Daniel Alvarez Poma*
+*Carlos Daniel Alvarez Poma* - Análisis y Detección de Vulnerabilidades en Redes WiFi en Entorno Bash Linux 
 
 ## Crédito de imagen 
 - NetS-Hub
